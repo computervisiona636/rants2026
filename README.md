@@ -1,6 +1,6 @@
 # RanTS: Random Token Sparsification
 Code repository for the paper: Random Token Sparsification for ViT-based Hand Representation
-<p align="left"> <strong>Authors: </strong>Truong Thi Ngoc Phuong, Thanh Tuan Nguyen, Duy-Dinh Le, Thanh Phuong Nguyen
+<p align="left"> <strong>Authors:</strong> Anonymous Authors
 </p>
 <div style="display: flex; gap: 10px;">
   <img src="assets/test1.png" width="24%">
