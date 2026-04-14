@@ -35,18 +35,18 @@ reduce the computational cost of the token-based description while preserving th
 ## INSTALLATION
 First you need to clone the repo:
 ```bash
-git clone --recursive https://github.com/phuongttn/rants.git
+git clone --recursive https://github.com/computervisiona636/rants2026
 cd rants
 ```
 We recommend creating a virtual environment for RanTS. You can use venv:
 ```bash
-python3.10 -m venv .rants
-source .rants/bin/activate
+python3.10 -m venv .rants2026
+source .rants2026/bin/activate
 ```
 or alternatively conda:
 ```bash
-conda create --name rants python=3.10
-conda activate rants
+conda create --name rants2026 python=3.10
+conda activate rants2026
 ```
 Then, you can install the rest of the dependencies:
 ```bash
